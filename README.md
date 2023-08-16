@@ -1,13 +1,23 @@
 • Understanding business problems
+
 • Data collection from open source
+
 • Understanding data and creating a separate data frame
+
 • Text preprocessing
+
 • Feature engineering techniques like count vectorizer, word-level TFIDF, word embeddings
+
 • At the model-building phase, k-means unsupervised learning approach
+
 • Considered three methods: elbow, silhouette score, and dendrogram to define the number of clusters
+
 • Clusters are visualized through monogram word cloud to get more sense out of it and for cluster interpretation
+
 • Topic extraction from each cluster using LDA techniques to further enhance the cluster interpretation
+
 • Each topic model for clusters is visualized separately by using pyLDAvis
+
 • Insights are drawn from word clouds on clusters and their corresponding topic models
 
 
