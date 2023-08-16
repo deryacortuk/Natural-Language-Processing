@@ -60,8 +60,8 @@ used for many text-to-text-based applications.
 
 # Evaluation Metrics for Summarization
 • ROUGE score: Basically, the number of words in the human-generated summary appeared in the machine-extracted summary. 
-It measures the recall of the output in terms of machine learning 
-evaluation.
+It measures the recall of the output in terms of machine learning evaluation.
+
 • BLEU score: The score is calculated using the following formula.
 Score = number of words in the machine-generated summary that appeared in the human-created summary.
 The BLUE score gives the precision of the model.
